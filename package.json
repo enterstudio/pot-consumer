@@ -15,7 +15,7 @@
     "express-session": "^1.13.0",
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "promise": "^7.1.1",
     "request-promise-json": "^1.0.4",
     "serve-favicon": "~2.3.0",
